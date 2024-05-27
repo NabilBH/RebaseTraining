@@ -1,2 +1,2 @@
 
-console.log("add new frontend")
+console.log("add new frontend WITH CORS")
